@@ -1,6 +1,7 @@
 - 👋 eae, sou o @Lipiinho
 - 👀 to interessado em aprender progamação
 - 🌱 atualmente estudo no ensino médio
+interresado em casadas
 - 📫 como me encontrar: felipe.piresde.souza@escola.pr.gov.br
 
 <!---
